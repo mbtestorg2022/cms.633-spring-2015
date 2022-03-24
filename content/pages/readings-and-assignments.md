@@ -236,7 +236,7 @@ Discussion of Final Projects (cont.)
 
 Tufte, Edward R. "Color and Information." In _Envisioning Information_. Graphics Press, 1990. ISBN: 9780961392116.
 
-Few, Stephen. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Chartjunk Debate: A Close Examination of Recent Findings." (PDF – 1.8MB)](https://www.perceptualedge.com/articles/visual_business_intelligence/the_chartjunk_debate.pdf) _Visual Business Intelligence Newsletter_. April–June 2011.
+Few, Stephen. ["The Chartjunk Debate: A Close Examination of Recent Findings." (PDF – 1.8MB)](https://www.perceptualedge.com/articles/visual_business_intelligence/the_chartjunk_debate.pdf) _Visual Business Intelligence Newsletter_. April–June 2011.
 
 ### Assignments
 

@@ -19,7 +19,7 @@ Concept: NewsConnect is a web application that allows users to see global connec
 
 [Final Design Document (PDF)]({{< baseurl >}}/resources/mitcms_633s15_finaldesign)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Presentation (PDF - 3.1MB)]({{< baseurl >}}/resources/mitcms_633s15_finalpres-1)
+[Final Presentation (PDF - 3.1MB)]({{< baseurl >}}/resources/mitcms_633s15_finalpres-1)
 
 [Code for the project](https://github.com/mbhatg/ConnectTheNews)
 
