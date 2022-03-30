@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding final p
   guidelines.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-633-digital-humanities-spring-2015/5b06d7c446ca51542f832c067cc3561e_MITCMS_633S15_FinalPres.pdf
 file_type: application/pdf
+parent_uid: a70f1736-fefc-bf34-797b-7bf238aad1dc
 resourcetype: Document
 title: CMS.633 Spring 2015 Final Presentation Guidelines
 uid: 5b06d7c4-46ca-5154-2f83-2c067cc3561e
